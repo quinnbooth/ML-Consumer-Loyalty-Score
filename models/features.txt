@@ -1,0 +1,1 @@
+{"boruta_shap": [["feature_1", "c1_sum_new_flag_1", "new_flag_mean_c3_B_0", "year_max", "month_lag_mean_new_flag_1", "purchase_amount_max_new_flag_1", "purchase_amount_range_new_flag_1", "latest_transaction", "latest_transaction_new_flag_1", "earliest_transaction_new_flag_1", "transaction_frequency_new_flag_1"], 
