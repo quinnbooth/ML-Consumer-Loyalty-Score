@@ -142,4 +142,6 @@ Looking forward, the methodologies and insights gained from this project can be 
 # References <a name="references"></a>
 
 [1] Kaggle. Elo merchant category recommendation. pages 1–1, 2018. https://www.kaggle.com/competitions/elo-merchant-category-recommendation/
+
+[2] TOWHIDUL.TONMOY. “🔥shap Hypertune🔥: Everything You Need to Know.” Kaggle, Kaggle, 1 Feb. 2022, https://www.kaggle.com/code/towhidultonmoy/shap-hypertune-everything-you-need-to-know/ 
 <br><br>
