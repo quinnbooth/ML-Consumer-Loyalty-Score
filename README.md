@@ -17,6 +17,15 @@ The Elo Merchant Category Recommendation dataset presents a predictive modeling 
 👩‍💻 **Steven Chase** - `sc4859@columbia.edu`
 <br><br>
 
+# How to Run <a name="howto"></a>
+
+1) After cloning this repo, visit https://www.kaggle.com/competitions/elo-merchant-category-recommendation/ and download the Kaggle competition datasets into a 'Data' folder.
+2) Run preprocessing.ipynb
+3) Run feature_engineering.ipynb
+4) Run feature_selection.ipynb
+5) Run models.ipynb
+<br><br>
+
 # Table of Contents
 
 - [Dataset](#dataset)
