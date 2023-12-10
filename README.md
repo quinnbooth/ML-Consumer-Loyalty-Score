@@ -5,7 +5,6 @@ The Elo Merchant Category Recommendation dataset presents a predictive modeling 
   <img src="./media/header.jpg" alt="header">
   <br>
 </p>
-<br>
 
 # Contributors
 
@@ -106,12 +105,12 @@ Our optimal final model was a weighted ensemble that had the following weights c
 | Weighted           | 3.698     | 3.636           | 3.713         |
 
 Below is a kernel density plot of our most successful model, visualizing its predictions versus the true values.
+<br><br>
 
 <div style="display: flex; flex-direction: column; align-items:left">
     <img src="./media/kde.PNG" alt="features" width="400">
     <p style="text-align: left;"><em>Figure 2: KDE Plot of Best Model.</em></p>
 </div>
-<br><br>
 
 # Limitations and Future Work <a name="future"></a>
 
@@ -120,6 +119,7 @@ Firstly, due to the confinement of the implementation to a machine with limited 
 These limitations show a huge potential for improvement in the performance metrics when the computation capacity of the environment is improved. This would enable the model to perform better in terms of generalization and accuracy. Such improvements would lead to more accurate user-specific recommendations, which in turn would translate to higher sales for Elo. 
 
 Looking ahead, there is a huge business opportunity to position the current Brazilian Elo Merchant Category Recommendation system for global scalability. To ensure compliance with highly diverse regulatory frameworks and data privacy standards that exist across borders globally, the implementation would have to incorporate region-specific considerations. This involves adjusting the model and infrastructure accordingly. Furthermore, establishing partnerships with regional financial conglomerates and merchant networks could offer valuable collaborations, enabling the Elo Merchant Category Recommendation system to collect data effectively. This expansion strategy aligns with Elo's roots as a Brazilian company while embracing the potential for a broader and more globally impactful presence.
+<br><br>
 
 # Conclusion <a name="conclusion"></a>
 
@@ -128,7 +128,9 @@ In conclusion, this project aimed at developing predictive models for the Elo Me
 The final models are capable of providing accurate merchant category recommendation scores, a critical need in the realm of personalized marketing and customer experience enhancement. The success of these models demonstrates the power of machine learning in transforming raw data into actionable insights, thereby offering significant value to similar business objectives.
 
 Looking forward, the methodologies and insights gained from this project can be applied to similar problems in the retail and marketing domains. Continuous refinement and adaptation of these models with new data and emerging techniques will ensure their ongoing relevance and effectiveness. This project stands as a testament to the potential of data-driven solutions in addressing complex business challenges and driving innovation.
+<br><br>
 
 # References <a name="references"></a>
 
 [1] Kaggle. Elo merchant category recommendation. pages 1–1, 2018. https://www.kaggle.com/competitions/elo-merchant-category-recommendation/
+<br><br>
